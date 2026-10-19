@@ -1,0 +1,16 @@
+{
+  "name": "Hales Jobs",
+  "short_name": "Hales Jobs",
+  "description": "Permanent, temporary and contract recruitment across the East of England — independent since 1999, part of Hales Group.",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#F7F4EA",
+  "theme_color": "#0A3D22",
+  "icons": [
+    {
+      "src": "assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
